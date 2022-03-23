@@ -1,0 +1,21 @@
+#container{
+    background-color: coral;
+}
+#container div{
+    height: 200px;
+    width: 200px;
+    /* background-color: aqua; */
+}
+.first{
+    background-color: aqua;
+}
+.second{
+    background-color: burlywood;
+}
+.third{
+    background-color: chartreuse;
+}
+
+.second{
+    position: fixed;
+}
